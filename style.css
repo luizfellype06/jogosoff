@@ -1,7 +1,9 @@
 body {
 	background: #D2691E;
 }
-
+#banner{
+ width:90%; 
+}
 h1 {
 	text-align: center;
 }
