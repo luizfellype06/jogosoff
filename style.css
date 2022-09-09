@@ -1,8 +1,11 @@
-body {
-	background: #D2691E;
-}
 #banner{
- width:90%; 
+	width: 100%;
+}
+
+body {
+	background: #AC00F4;
+	margin: 0;
+	padding: 0;
 }
 h1 {
 	text-align: center;
@@ -11,7 +14,5 @@ h1 {
 p {
 	text-align: center;
 }
-#banner{
-	width: 100%;
-}
+
 
